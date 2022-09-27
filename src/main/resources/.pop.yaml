@@ -1,0 +1,3 @@
+pac: "http://pac.mycompany.org"
+proxies:
+  "proxy.customer.org:8080": [ .customer.org ]
